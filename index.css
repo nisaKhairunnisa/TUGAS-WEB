@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #061468 !important;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #123683d0 !important;
+    font-size: 18px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #061468 !important;
+  }
+  
+  .btn-outline-success {
+    color: white !important;
+    background-color: #061468 !important;
+    border-color: #06156891 !important;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #050c36 !important;
+    border-color: #06156891 !important;
+  }
+  
